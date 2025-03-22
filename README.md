@@ -1,4 +1,4 @@
-# Contrastive Learning of Adaptive Social Information Fusion for Recommender Systems
+ # Contrastive Learning of Adaptive Social Information Fusion for Recommender Systems
 
 This is the PyTorch implementation for **AFCL** proposed in the paper **Contrastive Learning of Adaptive Social Information Fusion for Recommender Systems**.
 
@@ -24,3 +24,5 @@ We develop our codes in the following environment:
 | Douban     | 2,848    | 39,586    | 894,887 | 35,770     |  0.793%          |
 | Douban-book| 13,024   | 22,347    | 792,062 | 169,150    |  0.272%          |
 | Yelp       | 16,239   | 14,284    | 169,986 | 158,590    |  0.0732%         |
+
+
